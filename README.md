@@ -115,7 +115,7 @@
 
 ```
 patent-writing/
-└── SKILL.md       # Skill 主文件，包含完整撰写规范与各章节模板
+└── patent-writing.skill      # Skill 主文件，包含完整撰写规范与各章节模板
 ```
 
 安装后，在 Claude 对话中提到"专利"、"权利要求"、"技术交底书"等关键词即可自动触发。
